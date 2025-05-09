@@ -106,3 +106,9 @@ The model performs well in distinguishing between malignant and benign tumors.
 Certain features (like worst perimeter and worst concave points) have very strong predictive power.
 
 Feature selection not only improved performance but also helped reduce computational overhead
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/df3be3ea-57b2-4390-ade3-a05b4df1fb15)
+
+![Image](https://github.com/user-attachments/assets/c2299523-8b10-4763-b59b-5926d45e1c33)
